@@ -1,5 +1,4 @@
 # Pharmaceutical Drug Spending Prediction
-# Main Python file
 
 import pandas as pd
 import numpy as np
